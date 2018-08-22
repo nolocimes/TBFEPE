@@ -1,0 +1,15 @@
+#iStHiSReAlLy4KiMaGE1,#iStHiSReAlLy4KiMaGE2,#iStHiSReAlLy4KiMaGE3 {
+    cursor: grabbing;
+}
+
+#iStHiSReAlLy4KiMaGE2 {
+    background-image: url('background.png');
+    background-repeat: repeat;
+    background-color: chartreuse;
+    background-size: 1.5em;
+}
+
+#x{
+    font-size: .4in;
+    font-family: 'Comic Sans MS';
+}
